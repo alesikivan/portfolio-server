@@ -1,11 +1,11 @@
-# Digital City Server
+# Portfolio Server
 
 ## Development server
 
 You need to create a `.env` file.
 Inside `.env` you need to put: 
 ```js
-  PORT=3003
+  PORT=3004
 ```
 
 Run `npm install` to download all libs. 
